@@ -12,8 +12,8 @@ DNSServer dnsServer;
 #include <ESP8266WiFi.h>
 #endif
 
-const char* ssid = "ZTE-a0902A";
-const char* password = "8ce1237A";
+const char* ssid = "Infinix NOTE 8";
+const char* password = "123456789";
 const char* hostname = "espui";
 
 uint16_t status;

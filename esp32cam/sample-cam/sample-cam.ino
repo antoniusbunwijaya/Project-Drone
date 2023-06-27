@@ -19,8 +19,8 @@
 
 #include "camera_pins.h"
 
-const char* ssid = "ZTE-a0902A";
-const char* password = "8ce1237A";
+const char* ssid = "Infinix NOTE 8";
+const char* password = "123456789";
 
 void startCameraServer();
 
